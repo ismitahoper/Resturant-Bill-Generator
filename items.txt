@@ -1,0 +1,8 @@
+Burger 90
+Pizza 200
+Soda 60
+Water 15
+Chicken 100
+Sauce 5
+Sandwich 150
+Pasta 260
